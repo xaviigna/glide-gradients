@@ -1,0 +1,23 @@
+[
+  {
+    "kind": "column",
+    "name": "Gradient Generator",
+    "description": "Generates a gradient image from two colors by @xaviigna",
+    "author": "xaviigna",
+    "params": [
+      {
+        "name": "color1",
+        "displayName": "Color 1 (Hex)",
+        "type": "string"
+      },
+      {
+        "name": "color2",
+        "displayName": "Color 2 (Hex)",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
